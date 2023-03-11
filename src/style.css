@@ -1,0 +1,45 @@
+img{
+    width: 100%;
+}
+
+
+.nav{
+    list-style-type: none;
+    background-color: lightslategray;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    
+}
+li{
+    display: inline;
+    padding: 2px;
+    margin-left: 10px;
+    
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-weight: 800;
+}
+li a:hover{
+    background-color: white;
+}
+.side1{
+    float: left;
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.side2{
+    float: right;
+    width: 75%;
+}
+.footer{
+    margin-left: 200px;
+}
+
+
+
